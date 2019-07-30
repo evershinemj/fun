@@ -9,5 +9,8 @@ public class Fun {
 		
 		// edited on branch foo
 		System.out.println("created a new branch foo");
+
+		// to be committed on git gui
+		System.out.println("committed on git gui");
 	}
 }
