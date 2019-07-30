@@ -14,5 +14,6 @@ public class Fun {
 		System.out.println("committed on git gui");
 		
 		// added on remote origin
+		System.out.println("edited on github");
 	}
 }
