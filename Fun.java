@@ -12,5 +12,7 @@ public class Fun {
 
 		// to be committed on git gui
 		System.out.println("committed on git gui");
+		
+		// added on remote origin
 	}
 }
