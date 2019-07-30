@@ -6,5 +6,8 @@ public class Fun {
 		System.out.println("git is great!");
 		System.out.println("today is for git");
 		System.out.println("I love git!");
+		
+		// edited on branch foo
+		System.out.println("created a new branch foo");
 	}
 }
