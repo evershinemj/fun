@@ -4,5 +4,6 @@ public class Fun {
 		System.out.println("having fun with git!");
 		System.out.println("thought it's so hot today");
 		System.out.println("git is great!");
+		System.out.println("today is for git");
 	}
 }
