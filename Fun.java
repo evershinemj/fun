@@ -17,6 +17,7 @@ public class Fun {
 		System.out.println("edited on github");
 
 		System.out.println("July 31");
+		System.out.println("less hot today");
 
 	}
 }
