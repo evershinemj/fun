@@ -19,5 +19,10 @@ public class Fun {
 		System.out.println("July 31");
 		System.out.println("less hot today");
 
+		play();
+	}
+
+	public static void play() {
+		System.out.println("I'm playing tennis now");
 	}
 }
